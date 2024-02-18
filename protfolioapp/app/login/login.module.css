@@ -1,0 +1,10 @@
+.form {
+    max-width: 850px;
+    margin: 0 auto;
+    background-color: var(--accordion-header_background);
+    border-radius: var(--radius_8);
+    padding: 32px;
+    display: flex;
+    flex-direction: column;
+    gap: 6px;
+}
